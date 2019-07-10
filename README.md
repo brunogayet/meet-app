@@ -1,7 +1,7 @@
 # meetapp
 MeetApp (an acronym for Meetup + App) is a Javascript app for managing developer events.
 
-#Main Node.js dependencies
+# Main Node.js dependencies
 - Nodemon and Sucrase (server);
 - Sequelize (ORM);
 - MySQL (DBMS);
